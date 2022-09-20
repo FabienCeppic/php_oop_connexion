@@ -1,0 +1,22 @@
+header {
+    width: 80%;
+    margin: 0 auto;
+    background: #EEE;
+}
+
+header nav ul {
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a {
+    display: block;
+    padding: 5px 10px;
+}
+
+.login {
+    float: right;
+}
